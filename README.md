@@ -26,3 +26,29 @@ diferentes.
 
 7-. Una vez unidas las tablas, procedo a eliminar la columna id de mi dataframe, ya que es un dato que para nuestro análisis no aporta 
 informacion que pueda ayudar a esclarecer algo.
+
+8-. Comenzamos el analisis descriptivo haciendo un describe para ver las estadisticas generales con la media,maximos,minimos, cuartiles y
+vemos un conteo de trabajos para ver cuales son los mas usuales y los que menos.
+
+9-. Se comprueba la proporcion de si y no que tenemos y se hace una tabla de la correlacion entre las variables que tienen entre ellas.
+
+10-.Ahora empezamos a hacer una visualizacion de datos empezando con dos graficas de barras para ver la cantidad de clientes por edad.
+
+11-. Hacemos un diagrama de bigotes y cajas para ver si hay diferencias economicas entre los que contratan y los que no.
+
+12-. Se hace un diagrama de barras con todos los trabajos y si contratan o no, divididos por trabajo. Hacemos esto para comparar los 
+trabajos que tienen mayor o menor exito en la campaña.
+
+13-. luego hacemos otro diagrama de cajas para ver lo que influye el tiempo de llamada con la decision de aceptar o rechazar la oferta.
+
+14-. Hacemos un mapa de calor para comprobar la correlacion entre los valores numericos de nuestro dataframe y ver si hay patrones 
+fuertes.
+
+## Conclusiones:
+Viendo las graficas vemos que la mayoria de clientes se concentran en el rango de edad entre 25 y 45 años, y habria que concentrarse mas 
+en estas edades. Sin embargo no habria que dejar de lado a los jubilados y estudiantes, ya que, pese a ser en menor cantidad, suelen 
+tener un gran porcentace de exito en contratar algun producto.
+Sin embargo sectores o trabajos mas populares tiener menor exito. Tambien el equipo de marquetin deberia de buscar una estrategia cuando 
+contactemos con los clientes para que la llamada se alargue lo maximo posible ya que cuanto mas dure, mas posibilidades de que adquiera 
+algun producto nuestro habra.
+Tambien vemos que no hay mayor o menor indice de contratacion segun sus ingresos, asique no es algo que afecte directamente al cliente.
