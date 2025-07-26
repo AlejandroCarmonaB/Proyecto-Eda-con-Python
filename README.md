@@ -49,7 +49,7 @@ Viendo las graficas vemos que la mayoria de clientes se concentran en el rango d
 en estas edades. Sin embargo no habria que dejar de lado a los jubilados y estudiantes, ya que, pese a ser en menor cantidad, suelen 
 tener un gran porcentace de exito en contratar algun producto.
 
-Sin embargo sectores o trabajos mas populares tiener menor exito. Tambien el equipo de marquetin deberia de buscar una estrategia cuando 
+Sin embargo sectores o trabajos mas populares tiener menor exito. Tambien el equipo de marqueting deberia de buscar una estrategia cuando 
 contactemos con los clientes para que la llamada se alargue lo maximo posible ya que cuanto mas dure, mas posibilidades de que adquiera 
 algun producto nuestro habra.
 
